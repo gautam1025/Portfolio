@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap");
+
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Space Grotesk";
+  font-display: swap;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-synthesis: none;
+}
+
+/* Optimize animations to use transform and opacity only */
+* {
+  will-change: auto;
+}
+
+/* Prevent layout shift on animated elements */
+img {
+  display: block;
+}
+
+/* Optimize text rendering */
+h1, h2, h3, h4, h5, h6 {
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
