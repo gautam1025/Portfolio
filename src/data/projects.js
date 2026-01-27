@@ -17,7 +17,7 @@ export const projects = [
       "React movie discovery app with OMDb integration, debounced search, and dynamic routing for fast, smooth browsing.",
     tech: ["React.js (Vite)", "React Router DOM", "Context API", "OMDb API", "CSS3" ],
     github: "https://github.com/gautam1025/Movie_Explorer",
-    live: "",
+    live: "https://movie-explorer-gg.vercel.app/",
     image: "/projects/project2.png",
     featured: true,
   }, 
