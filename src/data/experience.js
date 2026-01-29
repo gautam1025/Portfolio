@@ -6,9 +6,9 @@ export const experience = [
         duration: "Jan 2026 - Present",
         mode: "Onsite",
         points: [
-            "Developed full-stack web features using React, Python, and PostgreSQL.",
-            "Built and integrated REST APIs with efficient database operations.",
-            "Implemented business logic and reusable UI components following scalable design practices.",
+            "Built scalable React.js applications with reusable components and optimized performance.",
+            "Integrated REST APIs, managed state, and implemented dynamic routing for seamless UX.",
+            "Collaborated with teams to deliver, debug, and deploy reliable production features.",
         ]
     },
     {
