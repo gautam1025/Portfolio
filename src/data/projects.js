@@ -6,7 +6,7 @@ export const projects = [
       "Resume-based recommendation engine using NLP and microservices to suggest personalized courses and career paths.",
     tech: ["React.js", "Node.js", "Express.js", "Python", "FastAPI",  "spaCy", "Scikit-learn" ],
     github: "https://github.com/gautam1025/Course-Recommender-System",
-    live: "",
+    live: "https://course-recommender-gg43.vercel.app",
     image: "/projects/project1.jpeg",
     featured: true,
   },
