@@ -175,8 +175,8 @@ const ContactInfo = () => {
       <div className="h-px bg-white/10" />
 
       <motion.a
-        href="/resume.pdf"
-        download
+        href="/Resume_GG.pdf"
+        download="Resume_GG.pdf"
         initial="rest"
         whileHover="hover"
         whileTap="tap"
