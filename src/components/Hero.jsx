@@ -82,7 +82,7 @@ const Hero = () => {
           variants={itemVariants}
           className="mt-4 text-xl sm:text-2xl text-gray-300"
         >
-          Web Developer
+          Full-Stack Web Developer
         </motion.h2>
 
         {/* Description */}
@@ -90,9 +90,9 @@ const Hero = () => {
           variants={itemVariants}
           className="mt-6 text-gray-400 text-base sm:text-lg leading-relaxed"
         >
-          I build scalable, high-performance web applications with modern
-          frontend technologies, focusing on clean code and great user
-          experience.
+          Full-Stack Web Developer specializing in building production-grade,
+          serverless enterprise systems and automated pipelines with React.js,
+          Next.js, TypeScript, Zustand, and Tailwind CSS.
         </motion.p>
 
         {/* CTA Buttons */}

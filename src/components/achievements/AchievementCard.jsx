@@ -10,6 +10,8 @@ const AchievementCard = ({ title, provider, year }) => {
       "Microsoft": "🏅",
       "Cisco Networking Academy": "📜",
       "Google": "⭐",
+      "Reliance Foundation": "🎓",
+      "LeetCode": "💻",
     };
     return iconMap[provider] || "🎯";
   };

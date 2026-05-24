@@ -4,31 +4,51 @@ import { motion } from "framer-motion";
 
 const primarySkills = [
   {
-    name: "React",
-    description: "Building scalable, component-based user interfaces",
+    name: "React & Next.js",
+    description: "Building scalable, component-based user interfaces and server-rendered web applications",
   },
   {
-    name: "JavaScript",
-    description: "Writing clean, modern ES6+ logic for web applications",
+    name: "JavaScript & TypeScript",
+    description: "Writing clean, modern, and strongly-typed logic for web applications",
   },
   {
-    name: "HTML & CSS",
-    description: "Creating responsive and accessible layouts",
+    name: "Node.js & Express.js",
+    description: "Developing fast, scalable server-side systems and RESTful APIs",
   },
   {
-    name: "Tailwind CSS",
-    description: "Rapid UI development with utility-first styling",
+    name: "FastAPI & Python",
+    description: "Building context-aware recommendation engines, NLP services, and backend APIs",
+  },
+  {
+    name: "Tailwind CSS & Shadcn UI",
+    description: "Rapid UI development with utility-first styling and reusable component libraries",
   },
 ];
 
 const secondarySkills = [
-  "Node.js",
-  "Express.js",
+  "Vite",
+  "React Router DOM",
+  "Zustand",
+  "Context API",
+  "Flask",
+  "PostgreSQL",
+  "MongoDB",
+  "Supabase",
+  "Google Apps Script",
+  "Google Sheets API",
+  "jsPDF",
+  "@react-pdf/renderer",
+  "SheetJS (xlsx)",
+  "Recharts",
+  "QR Code Generation",
+  "HTML5 Canvas API",
+  "RBAC Implementation",
+  "DSA (Java)",
+  "JWT Authentication",
   "REST APIs",
-  "Git & GitHub",
 ];
 
-const tools = ["VS Code", "Figma", "Postman", "Vercel"];
+const tools = ["Git", "GitHub", "Postman", "VS Code", "Vercel", "Figma", "Google Drive API"];
 
 /* Animation Variants (same language as Hero) */
 const containerVariants = {
